@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "quark:block/polished_limestone",
+    "top": "quark:block/polished_limestone_slab_side",
+    "front": "quark:block/polished_limestone_slab_side",
+    "left": "quark:block/polished_limestone_stairs_sw",
+    "right": "quark:block/polished_limestone_stairs_se"
+  }
+}

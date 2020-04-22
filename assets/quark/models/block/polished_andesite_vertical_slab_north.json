@@ -1,0 +1,9 @@
+{
+    "parent": "quark:block/polished_vertical_slab_north",
+    "textures": {
+        "bottom": "block/polished_andesite",
+        "top": "block/polished_andesite",
+        "side1": "block/polished_andesite_slab_side",
+        "side2": "block/polished_andesite_slab_vertical"
+    }
+}
