@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "quark:block/polished_slate",
+    "top": "quark:block/polished_slate_slab_vertical",
+    "front": "quark:block/polished_slate_slab_side",
+    "left": "quark:block/polished_slate_stairs_ne",
+    "right": "quark:block/polished_slate_stairs_nw"
+  }
+}

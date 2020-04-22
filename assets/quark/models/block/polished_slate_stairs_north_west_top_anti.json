@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/polished_inner_stairs",
+  "textures": {
+    "bottom": "quark:block/polished_slate",
+    "top": "quark:block/polished_slate_stairs_sw",
+    "sunkleft": "quark:block/polished_slate_stairs_se",
+    "sunkright": "quark:block/polished_slate_stairs_sw"
+  }
+}
