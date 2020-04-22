@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/polished_inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/quartz_block_top",
+    "top": "minecraft:block/quartz_stairs_se",
+    "sunkleft": "minecraft:block/quartz_stairs_se",
+    "sunkright": "minecraft:block/quartz_stairs_sw"
+  }
+}

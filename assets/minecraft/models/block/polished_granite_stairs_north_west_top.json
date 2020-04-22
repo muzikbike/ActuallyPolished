@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/polished_outer_stairs",
+  "textures": {
+    "bottom": "minecraft:block/polished_granite",
+    "top": "minecraft:block/polished_granite_stairs_sw",
+    "front": "minecraft:block/polished_granite_slab_side",
+    "raisedright": "minecraft:block/polished_granite_stairs_se",
+    "raisedleft": "minecraft:block/polished_granite_stairs_sw"
+  }
+}

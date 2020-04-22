@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "minecraft:block/quartz_block_top",
+    "top": "minecraft:block/quartz_slab_side",
+    "front": "minecraft:block/quartz_slab_side",
+    "left": "minecraft:block/quartz_stairs_ne",
+    "right": "minecraft:block/quartz_stairs_nw"
+  }
+}
