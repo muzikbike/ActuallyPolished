@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "type=north": { "model": "quark:block/polished_andesite_vertical_slab_north" },
+        "type=south": { "model": "quark:block/polished_andesite_vertical_slab_south" },
+        "type=east": { "model": "quark:block/polished_andesite_vertical_slab_east" },
+        "type=west": { "model": "quark:block/polished_andesite_vertical_slab_west" },
+        "type=double": { "model": "block/polished_andesite_slab_double" }
+    }
+}
