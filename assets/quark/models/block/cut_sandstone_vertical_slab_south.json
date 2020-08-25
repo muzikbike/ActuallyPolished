@@ -1,0 +1,9 @@
+{
+    "parent": "quark:block/polished_vertical_slab_south",
+    "textures": {
+        "bottom": "block/cut_sandstone",
+        "top": "block/cut_sandstone",
+        "side1": "block/sandstone_top",
+        "side2": "quark:block/cut_sandstone_slab_vertical"
+    }
+}
