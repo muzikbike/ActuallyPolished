@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "type=north": { "model": "quark:block/cut_soul_sandstone_vertical_slab_north" },
+        "type=south": { "model": "quark:block/cut_soul_sandstone_vertical_slab_south" },
+        "type=east": { "model": "quark:block/cut_soul_sandstone_vertical_slab_east" },
+        "type=west": { "model": "quark:block/cut_soul_sandstone_vertical_slab_west" },
+        "type=double": { "model": "quark:block/cut_soul_sandstone_slab_double" }
+    }
+}
