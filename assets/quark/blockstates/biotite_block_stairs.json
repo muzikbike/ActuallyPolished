@@ -1,0 +1,209 @@
+{
+  "variants": {
+    "facing=east,half=bottom,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_south_west_bottom_anti",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=east,half=bottom,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_north_west_bottom_anti"
+    },
+    "facing=east,half=bottom,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_north_east_bottom",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=east,half=bottom,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_south_east_bottom"
+    },
+    "facing=east,half=bottom,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_west_east_bottom"
+    },
+    "facing=east,half=top,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_south_west_top_anti",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=east,half=top,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_north_west_top_anti",
+      "x": 180,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=east,half=top,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_north_east_top",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=east,half=top,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_south_east_top",
+      "x": 180,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=east,half=top,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_west_east_top",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=north,half=bottom,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_south_east_bottom_anti",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=north,half=bottom,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_south_west_bottom_anti",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,half=bottom,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_north_west_bottom",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=north,half=bottom,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_north_east_bottom",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,half=bottom,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_north_south_bottom",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,half=top,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_south_east_top_anti",
+      "x": 180,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,half=top,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_south_west_top_anti",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=north,half=top,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_north_west_top",
+      "x": 180,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=north,half=top,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_north_east_top",
+      "x": 180,
+      "uvlock": true
+    },
+    "facing=north,half=top,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_north_south_top",
+      "x": 180,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=south,half=bottom,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_north_west_bottom_anti"
+    },
+    "facing=south,half=bottom,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_north_east_bottom_anti",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,half=bottom,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_south_east_bottom"
+    },
+    "facing=south,half=bottom,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_south_west_bottom",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,half=bottom,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_north_south_bottom",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,half=top,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_north_west_top_anti",
+      "x": 180,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,half=top,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_north_east_top_anti",
+      "x": 180,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=south,half=top,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_south_east_top",
+      "x": 180,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=south,half=top,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_south_west_top",
+      "x": 180,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=south,half=top,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_north_south_top",
+      "x": 180,
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=west,half=bottom,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_north_east_bottom_anti",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=west,half=bottom,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_south_east_bottom_anti",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,half=bottom,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_south_west_bottom",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=west,half=bottom,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_north_west_bottom",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,half=bottom,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_west_east_bottom",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,half=top,shape=inner_left": {
+      "model": "quark:block/biotite_block_stairs_north_east_top_anti",
+      "x": 180,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,half=top,shape=inner_right": {
+      "model": "quark:block/biotite_block_stairs_south_east_top_anti",
+      "x": 180,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=west,half=top,shape=outer_left": {
+      "model": "quark:block/biotite_block_stairs_south_west_top",
+      "x": 180,
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,half=top,shape=outer_right": {
+      "model": "quark:block/biotite_block_stairs_north_west_top",
+      "x": 180,
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=west,half=top,shape=straight": {
+      "model": "quark:block/biotite_block_stairs_west_east_top",
+      "x": 180,
+      "y": 180,
+      "uvlock": true
+    }
+  }
+}
