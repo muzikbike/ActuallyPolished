@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/polished_outer_stairs",
+  "textures": {
+    "bottom": "quark:block/biotite_block",
+    "top": "quark:block/biotite_stairs_sw",
+    "front": "quark:block/biotite_slab_side",
+    "raisedright": "quark:block/biotite_stairs_nw",
+    "raisedleft": "quark:block/biotite_stairs_ne"
+  }
+}

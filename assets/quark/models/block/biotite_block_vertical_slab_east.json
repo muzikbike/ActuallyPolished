@@ -1,0 +1,9 @@
+{
+    "parent": "quark:block/polished_vertical_slab_east",
+    "textures": {
+        "bottom": "quark:block/biotite_block",
+        "top": "quark:block/biotite_block",
+        "side1": "quark:block/biotite_slab_vertical",
+        "side2": "quark:block/biotite_slab_vertical"
+    }
+}

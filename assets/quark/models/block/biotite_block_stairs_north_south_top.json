@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "quark:block/biotite_block",
+    "top": "quark:block/biotite_slab_side",
+    "front": "quark:block/biotite_slab_side",
+    "left": "quark:block/biotite_stairs_sw",
+    "right": "quark:block/biotite_stairs_se"
+  }
+}
