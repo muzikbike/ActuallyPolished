@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blockus:block/polished_netherrack",
+        "side": "blockus:block/polished_netherrack_slab_side"
+    }
+}

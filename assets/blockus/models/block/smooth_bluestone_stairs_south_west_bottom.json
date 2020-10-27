@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/polished_outer_stairs",
+  "textures": {
+    "bottom": "blockus:block/smooth_bluestone",
+    "top": "blockus:block/smooth_bluestone_stairs_sw",
+    "front": "blockus:block/smooth_bluestone_slab_side",
+    "raisedright": "blockus:block/smooth_bluestone_stairs_nw",
+    "raisedleft": "blockus:block/smooth_bluestone_stairs_ne"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/polished_inner_stairs",
+  "textures": {
+    "bottom": "blockus:block/smooth_bluestone",
+    "top": "blockus:block/smooth_bluestone_stairs_se",
+    "sunkleft": "blockus:block/smooth_bluestone_stairs_nw",
+    "sunkright": "blockus:block/smooth_bluestone_stairs_ne"
+  }
+}

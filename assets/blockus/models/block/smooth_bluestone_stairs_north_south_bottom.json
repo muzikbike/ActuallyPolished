@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "blockus:block/smooth_bluestone",
+    "top": "blockus:block/smooth_bluestone_slab_side",
+    "front": "blockus:block/smooth_bluestone_slab_side",
+    "left": "blockus:block/smooth_bluestone_stairs_ne",
+    "right": "blockus:block/smooth_bluestone_stairs_nw"
+  }
+}
