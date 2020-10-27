@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "minecraft:block/smooth_stone",
+    "top": "modded:block/smooth_stone_slab_vertical",
+    "front": "minecraft:block/smooth_stone_slab_side",
+    "left": "modded:block/smooth_stone_stairs_sw",
+    "right": "modded:block/smooth_stone_stairs_se"
+  }
+}
