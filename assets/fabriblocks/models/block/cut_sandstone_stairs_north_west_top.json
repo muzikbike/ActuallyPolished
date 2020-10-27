@@ -1,0 +1,10 @@
+{
+  "parent": "fabriblocks:block/cut_outer_stairs",
+  "textures": {
+    "end": "minecraft:block/sandstone_top",
+    "back": "minecraft:block/cut_sandstone",
+    "front": "minecraft:block/cut_sandstone_slab_side",
+    "raisedright": "fabriblocks:block/cut_sandstone_stairs_se",
+    "raisedleft": "fabriblocks:block/cut_sandstone_stairs_sw"
+  }
+}

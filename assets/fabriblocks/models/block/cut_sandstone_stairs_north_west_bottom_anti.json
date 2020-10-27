@@ -1,0 +1,9 @@
+{
+  "parent": "fabriblocks:block/cut_inner_stairs",
+  "textures": {
+    "end": "minecraft:block/sandstone_top",
+    "back": "minecraft:block/cut_sandstone",
+    "sunkleft": "fabriblocks:block/cut_sandstone_stairs_nw",
+    "sunkright": "fabriblocks:block/cut_sandstone_stairs_ne"
+  }
+}
