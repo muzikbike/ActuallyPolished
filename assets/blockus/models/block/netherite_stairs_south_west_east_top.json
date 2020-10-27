@@ -1,0 +1,10 @@
+{
+  "parent": "block/polished_stairs",
+  "textures": {
+    "bottom": "minecraft:block/netherite_block",
+    "top": "blockus:block/netherite_slab_vertical",
+    "front": "blockus:block/netherite_slab_side",
+    "left": "blockus:block/netherite_stairs_sw",
+    "right": "blockus:block/netherite_stairs_se"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "minecraft:block/netherite_block",
+        "side": "blockus:block/netherite_slab_side"
+    }
+}

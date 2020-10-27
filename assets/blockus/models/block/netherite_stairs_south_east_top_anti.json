@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/polished_inner_stairs",
+  "textures": {
+    "bottom": "minecraft:block/netherite_block",
+    "top": "blockus:block/netherite_stairs_ne",
+    "sunkleft": "blockus:block/netherite_stairs_se",
+    "sunkright": "blockus:block/netherite_stairs_sw"
+  }
+}
